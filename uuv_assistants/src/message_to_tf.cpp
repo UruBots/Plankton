@@ -40,6 +40,8 @@
 #include <tf2_ros/transform_broadcaster.h>
 #include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
 
+#include <LinearMath/btMatrix3x3.h>
+#include <LinearMath/btScalar.h>
 
 std::string g_odometry_topic;
 std::string g_pose_topic;

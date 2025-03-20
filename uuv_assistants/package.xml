@@ -27,6 +27,7 @@
   <depend>tf2</depend>
   <depend>tf2_ros</depend>
   <depend>tf2_geometry_msgs</depend>
+  <depend>bullet</depend>
 
   <!--TODO Check the dependencies-->
   <exec_depend>rclpy</exec_depend>
